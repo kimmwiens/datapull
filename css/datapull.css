@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+.datapull_post{
+clear:both;
+padding: 0px 8px 8px 0px;
+border-top: 1px dotted #000;
+}
+
+.datapull_post h2{
+font-size: 125%;
+}
+
+.datapull_post p{
+font-size: 100%;
+line-height: 115%;
+
+}
+.datapull_post img{
+float: left;
+padding: 0px 8px 8px 0px;
+}
+
+.feedback{
+font-size: 125%;
+margin-bottom: 5px;
+}

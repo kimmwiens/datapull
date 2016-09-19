@@ -1,0 +1,865 @@
+﻿{
+    "root": {
+        "data": 
+        [
+            {
+                "ID": 4759,
+                "title": "Mindshare Labs launches open source trails app for Santa Fe County",
+                "status": "publish",
+                "type": "post",
+                "author": {
+                    "ID": 3,
+                    "username": "mindshare",
+                    "name": "Damian Taggart",
+                    "first_name": "Damian",
+                    "last_name": "Taggart",
+                    "nickname": "Damian",
+                    "slug": "mindshare",
+                    "URL": "https:\/\/mind.sh\/are\/company\/team\/",
+                    "avatar": "https:\/\/secure.gravatar.com\/avatar\/4b80aa96c59bcbe5b6af4431980a2435?s=96",
+                    "description": "Over the past decade Damian has grown Mindshare Labs from a very small (spare bedroom) operation into one of the more established and sought after web design and app development firms in the Southwest. Mindshare Labs won Small Business of the Year in 2014 from the Santa Fe Chamber of Commerce. Before founding Mindshare Labs, Damian worked as a web and multimedia developer for St. John\u2019s College and Central New Mexico Community College, respectively. Damian has also worked doing freelance web design and internet\/technology consulting. He is an avid open source technology enthusiast.\r\n\r\nDamian serves the City of Santa Fe on both the Economic Development Review Committee and the Business and Quality of Life Committee. Additionally, Damian is a co-owner of the experimental arts collective <a href=\"https:\/\/meowwolf.com\/\">Meow Wolf<\/a> which has partnered with George RR Martin to open a 20,000 square foot art experience in Santa Fe.\r\n\r\nDamian graduated cum laude with an interdisciplinary degree in Media Arts and English from the University of New Mexico in 2003. Damian lives in Santa Fe with his wife Lara and two sons, Jack and Henry.",
+                    "registered": "2011-07-29T22:06:45+00:00",
+                    "meta": {
+                        "links": {
+                            "self": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                            "archives": "https:\/\/mind.sh\/are\/wp-json\/users\/3\/posts"
+                        }
+                    }
+                },
+                "content": "<p>Mindshare Labs partnered with Santa Fe County to build an open source mobile app that details hiking and biking trails within Santa Fe County. The app contains maps for County, City, Forest Service, and private (Galisteo Basin Preserve) trails.<\/p>\n<p>The app\/map contains trail descriptions, elevation profiles, images, parking locations, and contact info. The map allows users to search for trails based on user type and include paved, soft surface single track, double track, trails and roads.<\/p>\n<ul>\n<li><a href=\"http:\/\/www.santafecountynm.gov\/news_detail\/2389\">Press Release<\/a><\/li>\n<li><a href=\"https:\/\/github.com\/OpenFuture\/OpenTrails\">GitHub repo (source code)<\/a><\/li>\n<li><a href=\"https:\/\/play.google.com\/store\/apps\/details?id=com.sftrails\">Google Play<\/a><\/li>\n<li><a href=\"https:\/\/itunes.apple.com\/us\/app\/santa-fe-county-trail-maps\/id1119349186\">Apple App Store<\/a><\/li>\n<\/ul>\n",
+                "parent": null,
+                "link": "https:\/\/mind.sh\/are\/news\/mindshare-labs-launches-open-source-trails-app-santa-fe-county\/",
+                "date": "2016-08-29T17:51:14",
+                "modified": "2016-08-29T17:51:14",
+                "format": "standard",
+                "slug": "mindshare-labs-launches-open-source-trails-app-santa-fe-county",
+                "guid": "https:\/\/mind.sh\/are\/?p=4759",
+                "excerpt": "<p>Mindshare Labs partnered with Santa Fe County to build an open source mobile app that details hiking and biking trails within Santa Fe County. The app contains maps for County, City, Forest Service, and private (Galisteo Basin Preserve) trails. The app\/map contains trail descriptions, elevation profiles, images, parking locations, and contact info. The map allows&nbsp;<a class=\"mapi excerpt-more\" title=\"Mindshare Labs launches open source trails app for Santa Fe County\" href=\"https:\/\/mind.sh\/are\/news\/mindshare-labs-launches-open-source-trails-app-santa-fe-county\/\">Read more &rsaquo;<\/a><\/p>\n",
+                "menu_order": 0,
+                "comment_status": "open",
+                "ping_status": "open",
+                "sticky": false,
+                "date_tz": "America\/Denver",
+                "date_gmt": "2016-08-29T23:51:14",
+                "modified_tz": "America\/Denver",
+                "modified_gmt": "2016-08-29T23:51:14",
+                "meta": {
+                    "links": {
+                        "self": "https:\/\/mind.sh\/are\/wp-json\/posts\/4759",
+                        "author": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                        "collection": "https:\/\/mind.sh\/are\/wp-json\/posts",
+                        "replies": "https:\/\/mind.sh\/are\/wp-json\/posts\/4759\/comments",
+                        "version-history": "https:\/\/mind.sh\/are\/wp-json\/posts\/4759\/revisions"
+                    }
+                },
+                "featured_image": null,
+                "terms": {
+                    "category": [
+                        {
+                            "ID": 3,
+                            "name": "Code",
+                            "slug": "code",
+                            "description": "",
+                            "taxonomy": "category",
+                            "parent": {
+                                "ID": 6,
+                                "name": "News",
+                                "slug": "news",
+                                "description": "",
+                                "taxonomy": "category",
+                                "parent": null,
+                                "count": 77,
+                                "link": "https:\/\/mind.sh\/are\/category\/news\/",
+                                "meta": {
+                                    "links": {
+                                        "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms",
+                                        "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms\/280"
+                                    }
+                                }
+                            },
+                            "count": 14,
+                            "link": "https:\/\/mind.sh\/are\/category\/news\/code\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms\/3"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 4,
+                            "name": "Downloads",
+                            "slug": "downloads",
+                            "description": "",
+                            "taxonomy": "category",
+                            "parent": {
+                                "ID": 6,
+                                "name": "News",
+                                "slug": "news",
+                                "description": "",
+                                "taxonomy": "category",
+                                "parent": null,
+                                "count": 77,
+                                "link": "https:\/\/mind.sh\/are\/category\/news\/",
+                                "meta": {
+                                    "links": {
+                                        "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms",
+                                        "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms\/280"
+                                    }
+                                }
+                            },
+                            "count": 21,
+                            "link": "https:\/\/mind.sh\/are\/category\/news\/downloads\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms\/4"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 6,
+                            "name": "News",
+                            "slug": "news",
+                            "description": "",
+                            "taxonomy": "category",
+                            "parent": null,
+                            "count": 77,
+                            "link": "https:\/\/mind.sh\/are\/category\/news\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms\/280"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "ID": 4638,
+                "title": "Rebranding Mindshare",
+                "status": "publish",
+                "type": "post",
+                "author": {
+                    "ID": 3,
+                    "username": "mindshare",
+                    "name": "Damian Taggart",
+                    "first_name": "Damian",
+                    "last_name": "Taggart",
+                    "nickname": "Damian",
+                    "slug": "mindshare",
+                    "URL": "https:\/\/mind.sh\/are\/company\/team\/",
+                    "avatar": "https:\/\/secure.gravatar.com\/avatar\/4b80aa96c59bcbe5b6af4431980a2435?s=96",
+                    "description": "Over the past decade Damian has grown Mindshare Labs from a very small (spare bedroom) operation into one of the more established and sought after web design and app development firms in the Southwest. Mindshare Labs won Small Business of the Year in 2014 from the Santa Fe Chamber of Commerce. Before founding Mindshare Labs, Damian worked as a web and multimedia developer for St. John\u2019s College and Central New Mexico Community College, respectively. Damian has also worked doing freelance web design and internet\/technology consulting. He is an avid open source technology enthusiast.\r\n\r\nDamian serves the City of Santa Fe on both the Economic Development Review Committee and the Business and Quality of Life Committee. Additionally, Damian is a co-owner of the experimental arts collective <a href=\"https:\/\/meowwolf.com\/\">Meow Wolf<\/a> which has partnered with George RR Martin to open a 20,000 square foot art experience in Santa Fe.\r\n\r\nDamian graduated cum laude with an interdisciplinary degree in Media Arts and English from the University of New Mexico in 2003. Damian lives in Santa Fe with his wife Lara and two sons, Jack and Henry.",
+                    "registered": "2011-07-29T22:06:45+00:00",
+                    "meta": {
+                        "links": {
+                            "self": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                            "archives": "https:\/\/mind.sh\/are\/wp-json\/users\/3\/posts"
+                        }
+                    }
+                },
+                "content": "<p>We are currently working on a rebranding initiative. Our new name and logo is being rolled out now through the end of August, so there will be some references to Mindshare Studios\u00a0and Mindshare Labs until the transition is complete.<\/p>\n<p>Say hi to<br \/>\n<strong>mindshare labs.<\/strong><\/p>\n<p><strong><img src=\"https:\/\/gallery.mailchimp.com\/bf1d0f5bebb27fa15f1c84adb\/images\/78e77fb1-064b-47bf-96ea-43b234357c2c.png\" width=\"300\" height=\"300\" align=\"center\" data-cke-saved-src=\"https:\/\/gallery.mailchimp.com\/bf1d0f5bebb27fa15f1c84adb\/images\/78e77fb1-064b-47bf-96ea-43b234357c2c.png\" \/><\/strong><\/p>\n<p>You will soon be seeing a lot more of this brand identity as we take the steps to fully convert. Rest assured that we are the same team who has supported your website or online project throughout the years of our partnership.<\/p>\n",
+                "parent": null,
+                "link": "https:\/\/mind.sh\/are\/news\/rebranding-mindshare\/",
+                "date": "2016-07-06T11:19:44",
+                "modified": "2016-07-06T14:00:49",
+                "format": "standard",
+                "slug": "rebranding-mindshare",
+                "guid": "https:\/\/mind.sh\/are\/?p=4638",
+                "excerpt": "<p>We are currently working on a rebranding initiative. Our new name and logo is being rolled out now through the end of August, so there will be some references to Mindshare Studios\u00a0and Mindshare Labs until the transition is complete. Say hi to mindshare labs. You will soon be seeing a lot more of this brand&nbsp;<a class=\"mapi excerpt-more\" title=\"Rebranding Mindshare\" href=\"https:\/\/mind.sh\/are\/news\/rebranding-mindshare\/\">Read more &rsaquo;<\/a><\/p>\n",
+                "menu_order": 0,
+                "comment_status": "open",
+                "ping_status": "open",
+                "sticky": false,
+                "date_tz": "America\/Denver",
+                "date_gmt": "2016-07-06T17:19:44",
+                "modified_tz": "America\/Denver",
+                "modified_gmt": "2016-07-06T20:00:49",
+                "meta": {
+                    "links": {
+                        "self": "https:\/\/mind.sh\/are\/wp-json\/posts\/4638",
+                        "author": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                        "collection": "https:\/\/mind.sh\/are\/wp-json\/posts",
+                        "replies": "https:\/\/mind.sh\/are\/wp-json\/posts\/4638\/comments",
+                        "version-history": "https:\/\/mind.sh\/are\/wp-json\/posts\/4638\/revisions"
+                    }
+                },
+                "featured_image": null,
+                "terms": {
+                    "post_tag": [
+                        {
+                            "ID": 292,
+                            "name": "10 years",
+                            "slug": "10-years",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/10-years\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/292"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 293,
+                            "name": "branding",
+                            "slug": "branding",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/branding\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/293"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 294,
+                            "name": "identity",
+                            "slug": "identity",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/identity\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/294"
+                                }
+                            }
+                        }
+                    ],
+                    "category": [
+                        {
+                            "ID": 6,
+                            "name": "News",
+                            "slug": "news",
+                            "description": "",
+                            "taxonomy": "category",
+                            "parent": null,
+                            "count": 77,
+                            "link": "https:\/\/mind.sh\/are\/category\/news\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms\/280"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "ID": 4330,
+                "title": "Now hiring frontend web designer HTML\/CSS",
+                "status": "publish",
+                "type": "post",
+                "author": {
+                    "ID": 3,
+                    "username": "mindshare",
+                    "name": "Damian Taggart",
+                    "first_name": "Damian",
+                    "last_name": "Taggart",
+                    "nickname": "Damian",
+                    "slug": "mindshare",
+                    "URL": "https:\/\/mind.sh\/are\/company\/team\/",
+                    "avatar": "https:\/\/secure.gravatar.com\/avatar\/4b80aa96c59bcbe5b6af4431980a2435?s=96",
+                    "description": "Over the past decade Damian has grown Mindshare Labs from a very small (spare bedroom) operation into one of the more established and sought after web design and app development firms in the Southwest. Mindshare Labs won Small Business of the Year in 2014 from the Santa Fe Chamber of Commerce. Before founding Mindshare Labs, Damian worked as a web and multimedia developer for St. John\u2019s College and Central New Mexico Community College, respectively. Damian has also worked doing freelance web design and internet\/technology consulting. He is an avid open source technology enthusiast.\r\n\r\nDamian serves the City of Santa Fe on both the Economic Development Review Committee and the Business and Quality of Life Committee. Additionally, Damian is a co-owner of the experimental arts collective <a href=\"https:\/\/meowwolf.com\/\">Meow Wolf<\/a> which has partnered with George RR Martin to open a 20,000 square foot art experience in Santa Fe.\r\n\r\nDamian graduated cum laude with an interdisciplinary degree in Media Arts and English from the University of New Mexico in 2003. Damian lives in Santa Fe with his wife Lara and two sons, Jack and Henry.",
+                    "registered": "2011-07-29T22:06:45+00:00",
+                    "meta": {
+                        "links": {
+                            "self": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                            "archives": "https:\/\/mind.sh\/are\/wp-json\/users\/3\/posts"
+                        }
+                    }
+                },
+                "content": "<p>We are currently looking for someone to join our team with solid HTML and CSS skills. The job will entail coding web and app layouts using standard frameworks like Bootstrap and Semantic UI as well as supporting Mindshare clients, troubleshooting, and debugging websites. This is a frontend development position so programming with JS or PHP is a plus, but not required.<\/p>\n<p><a href=\"https:\/\/mind.sh\/are\/company\/employment\/\">Learn more or apply now \u00bb<\/a><\/p>\n",
+                "parent": null,
+                "link": "https:\/\/mind.sh\/are\/news\/now-hiring-frontend-web-designer-htmlcss\/",
+                "date": "2015-12-18T20:41:32",
+                "modified": "2015-12-22T16:28:24",
+                "format": "standard",
+                "slug": "now-hiring-frontend-web-designer-htmlcss",
+                "guid": "https:\/\/mind.sh\/are\/?p=4330",
+                "excerpt": "<p>We are currently looking for someone to join our team with solid HTML and CSS skills. The job will entail coding web and app layouts using standard frameworks like Bootstrap and Semantic UI as well as supporting Mindshare clients, troubleshooting, and debugging websites. This is a frontend development position so programming with JS or PHP&nbsp;<a class=\"mapi excerpt-more\" title=\"Now hiring frontend web designer HTML\/CSS\" href=\"https:\/\/mind.sh\/are\/news\/now-hiring-frontend-web-designer-htmlcss\/\">Read more &rsaquo;<\/a><\/p>\n",
+                "menu_order": 0,
+                "comment_status": "open",
+                "ping_status": "open",
+                "sticky": false,
+                "date_tz": "America\/Denver",
+                "date_gmt": "2015-12-19T03:41:32",
+                "modified_tz": "America\/Denver",
+                "modified_gmt": "2015-12-22T23:28:24",
+                "meta": {
+                    "links": {
+                        "self": "https:\/\/mind.sh\/are\/wp-json\/posts\/4330",
+                        "author": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                        "collection": "https:\/\/mind.sh\/are\/wp-json\/posts",
+                        "replies": "https:\/\/mind.sh\/are\/wp-json\/posts\/4330\/comments",
+                        "version-history": "https:\/\/mind.sh\/are\/wp-json\/posts\/4330\/revisions"
+                    }
+                },
+                "featured_image": null,
+                "terms": {
+                    "post_tag": [
+                        {
+                            "ID": 60,
+                            "name": "css",
+                            "slug": "css",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 2,
+                            "link": "https:\/\/mind.sh\/are\/tag\/css\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/60"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 290,
+                            "name": "employment",
+                            "slug": "employment",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/employment\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/290"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 288,
+                            "name": "hiring",
+                            "slug": "hiring",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/hiring\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/288"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 94,
+                            "name": "html",
+                            "slug": "html",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 2,
+                            "link": "https:\/\/mind.sh\/are\/tag\/html\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/94"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 289,
+                            "name": "jobs",
+                            "slug": "jobs",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/jobs\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/289"
+                                }
+                            }
+                        }
+                    ],
+                    "category": [
+                        {
+                            "ID": 6,
+                            "name": "News",
+                            "slug": "news",
+                            "description": "",
+                            "taxonomy": "category",
+                            "parent": null,
+                            "count": 77,
+                            "link": "https:\/\/mind.sh\/are\/category\/news\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms\/280"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "ID": 4293,
+                "title": "Now hiring an administrative assistant",
+                "status": "publish",
+                "type": "post",
+                "author": {
+                    "ID": 3,
+                    "username": "mindshare",
+                    "name": "Damian Taggart",
+                    "first_name": "Damian",
+                    "last_name": "Taggart",
+                    "nickname": "Damian",
+                    "slug": "mindshare",
+                    "URL": "https:\/\/mind.sh\/are\/company\/team\/",
+                    "avatar": "https:\/\/secure.gravatar.com\/avatar\/4b80aa96c59bcbe5b6af4431980a2435?s=96",
+                    "description": "Over the past decade Damian has grown Mindshare Labs from a very small (spare bedroom) operation into one of the more established and sought after web design and app development firms in the Southwest. Mindshare Labs won Small Business of the Year in 2014 from the Santa Fe Chamber of Commerce. Before founding Mindshare Labs, Damian worked as a web and multimedia developer for St. John\u2019s College and Central New Mexico Community College, respectively. Damian has also worked doing freelance web design and internet\/technology consulting. He is an avid open source technology enthusiast.\r\n\r\nDamian serves the City of Santa Fe on both the Economic Development Review Committee and the Business and Quality of Life Committee. Additionally, Damian is a co-owner of the experimental arts collective <a href=\"https:\/\/meowwolf.com\/\">Meow Wolf<\/a> which has partnered with George RR Martin to open a 20,000 square foot art experience in Santa Fe.\r\n\r\nDamian graduated cum laude with an interdisciplinary degree in Media Arts and English from the University of New Mexico in 2003. Damian lives in Santa Fe with his wife Lara and two sons, Jack and Henry.",
+                    "registered": "2011-07-29T22:06:45+00:00",
+                    "meta": {
+                        "links": {
+                            "self": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                            "archives": "https:\/\/mind.sh\/are\/wp-json\/users\/3\/posts"
+                        }
+                    }
+                },
+                "content": "<p>We are looking for someone to help us run our office and be more productive! check out the posting and apply online: <a href=\"https:\/\/mind.sh\/are\/company\/employment\/\">https:\/\/mind.sh\/are\/company\/employment\/<\/a><\/p>\n",
+                "parent": null,
+                "link": "https:\/\/mind.sh\/are\/news\/now-hiring-an-administrative-assistant\/",
+                "date": "2015-11-05T15:07:32",
+                "modified": "2015-11-05T15:07:32",
+                "format": "standard",
+                "slug": "now-hiring-an-administrative-assistant",
+                "guid": "https:\/\/mind.sh\/are\/?p=4293",
+                "excerpt": "<p>We are looking for someone to help us run our office and be more productive! check out the posting and apply online: https:\/\/mind.sh\/are\/company\/employment\/<\/p>\n",
+                "menu_order": 0,
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "sticky": false,
+                "date_tz": "America\/Denver",
+                "date_gmt": "2015-11-05T22:07:32",
+                "modified_tz": "America\/Denver",
+                "modified_gmt": "2015-11-05T22:07:32",
+                "meta": {
+                    "links": {
+                        "self": "https:\/\/mind.sh\/are\/wp-json\/posts\/4293",
+                        "author": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                        "collection": "https:\/\/mind.sh\/are\/wp-json\/posts",
+                        "replies": "https:\/\/mind.sh\/are\/wp-json\/posts\/4293\/comments",
+                        "version-history": "https:\/\/mind.sh\/are\/wp-json\/posts\/4293\/revisions"
+                    }
+                },
+                "featured_image": null,
+                "terms": {
+                    "category": [
+                        {
+                            "ID": 6,
+                            "name": "News",
+                            "slug": "news",
+                            "description": "",
+                            "taxonomy": "category",
+                            "parent": null,
+                            "count": 77,
+                            "link": "https:\/\/mind.sh\/are\/category\/news\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms\/280"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "ID": 3804,
+                "title": "An Open Letter to Adobe",
+                "status": "publish",
+                "type": "post",
+                "author": {
+                    "ID": 3,
+                    "username": "mindshare",
+                    "name": "Damian Taggart",
+                    "first_name": "Damian",
+                    "last_name": "Taggart",
+                    "nickname": "Damian",
+                    "slug": "mindshare",
+                    "URL": "https:\/\/mind.sh\/are\/company\/team\/",
+                    "avatar": "https:\/\/secure.gravatar.com\/avatar\/4b80aa96c59bcbe5b6af4431980a2435?s=96",
+                    "description": "Over the past decade Damian has grown Mindshare Labs from a very small (spare bedroom) operation into one of the more established and sought after web design and app development firms in the Southwest. Mindshare Labs won Small Business of the Year in 2014 from the Santa Fe Chamber of Commerce. Before founding Mindshare Labs, Damian worked as a web and multimedia developer for St. John\u2019s College and Central New Mexico Community College, respectively. Damian has also worked doing freelance web design and internet\/technology consulting. He is an avid open source technology enthusiast.\r\n\r\nDamian serves the City of Santa Fe on both the Economic Development Review Committee and the Business and Quality of Life Committee. Additionally, Damian is a co-owner of the experimental arts collective <a href=\"https:\/\/meowwolf.com\/\">Meow Wolf<\/a> which has partnered with George RR Martin to open a 20,000 square foot art experience in Santa Fe.\r\n\r\nDamian graduated cum laude with an interdisciplinary degree in Media Arts and English from the University of New Mexico in 2003. Damian lives in Santa Fe with his wife Lara and two sons, Jack and Henry.",
+                    "registered": "2011-07-29T22:06:45+00:00",
+                    "meta": {
+                        "links": {
+                            "self": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                            "archives": "https:\/\/mind.sh\/are\/wp-json\/users\/3\/posts"
+                        }
+                    }
+                },
+                "content": "<p>Dear Adobe,<\/p>\n<p>I cancelled our Adobe Creative\u00a0Cloud plan today. At\u00a0Mindshare Labs we have been\u00a0long term users, fans even, of Adobe and their products for about 20 years. I used to joke in the early 2000&#8217;s that I was only able to buy my first house thanks to Adobe Flash (I was primarily a freelance Flash developer at the time).<\/p>\n<h2>A\u00a0History of Loyalty<\/h2>\n<p>I got my start with Adobe software\u00a0in college in the late 90&#8217;s with Photoshop, ImageReady (yep, animating GIFs) and Dreamweaver (when DW was still a Macromedia product). Since that time I have continuously been a loyal customer of Adobe (and previously Macromedia). I also\u00a0contributed to the Adobe\u00a0community in numerous ways, including: writing free\u00a0extensions\u00a0for Dreamweaver and Flash (distributed widely on the Adobe Exchange), being a volunteer community leader in Albuquerque&#8217;s Adobe Users Group,\u00a0authoring and publishing many tutorials on\u00a0Adobe products, and I even did a short stint teaching Flash ActionScript 3 at UNM Continuing Education. I became an Adobe Certified Flash Developer and attended Adobe&#8217;s yearly conference, Adobe MAX,\u00a0three times.<\/p>\n<h2>Adobe Corporate Culture<\/h2>\n<p>But times change, and technology changes even faster. Since the late 1990s a lot has happened in the world of web development and\u00a0design and a lot has happened for Adobe. Almost 10 years ago, in 2005, Adobe Systems Inc bought their chief competitor, a smaller company called Macromedia. Macromedia was at the time the only real competitor for many of Adobe&#8217;s products including the flagship products Photoshop and Illustrator, just to name a few.\u00a0This merger created a de facto monopoly for Adobe in the creative industry, with scant competition in any area except video editing (thanks to Final Cut Pro).\u00a0Adobe hired a large team of talented lawyers to ensure the courts wouldn&#8217;t see this merger as the\u00a0monopoly it is. Our justice system has always been particularly bad at handling issues relating to tech (mergers, patents, privacy, you name it).<\/p>\n<p>In the 10 years since this monopoly began Adobe has dramatically reduced options for consumers\u00a0while dramatically increasing its prices.<\/p>\n<blockquote><p>For the period ended May 30, Adobe reported a profit of $88.5 million, or 17 cents a share, up from $76.5 million, or 15 cents a share, a year earlier. Excluding stock-based compensation and other items, adjusted per-share earnings rose to 37 cents from 36 cents. Revenue increased 5.7% to $1.07 billion.<\/p>\n<p><cite>Jun 17, 2014 [<a href=\"http:\/\/www.wsj.com\/articles\/adobe-profit-rises-16-1403038631\">source<\/a>]<\/cite><\/p><\/blockquote>\n<p>Since 2005 Adobe has killed off a number of Macromedia&#8217;s products either quickly and directly (Freehand),\u00a0by way of slow death due to lack of updates (Fireworks, Fontographer) or mismanagement (Flash). These are just a few examples off the top of my head but I&#8217;m\u00a0certain\u00a0there are more.<\/p>\n<p>Aside from the reduction of meaning competition and choice for consumers, prices have gone way up. Gone are the days where you could choose to skip a version and only upgrade your Creative Suite every 3 years, Because of\u00a0the de facto monopoly that Adobe now enjoys, they have been able to switch from a standard licensing model to a controversially priced monthly subscription plan. I have nothing against subscriptions for software by the way\u00a0but in Adobe&#8217;s case, as a long time customer, the Creative Cloud really feels like price gouging.<\/p>\n<p>A few years ago I participated in some lengthy Adobe surveys regarding\u00a0the Creative Cloud pricing structure. These surveys outlined a wide range of alternative pricing that Adobe was considering, including a much more appealing option for metered\u00a0usage (pay for how long you actually use the software.) A metered plan would make a lot of sense for my company, we probably have Adobe software\u00a0running for maybe 1-3 hours per month at this point &#8211; more on this in a minute. None of these alternative pricing options materialized.<\/p>\n<h2>A Shift Toward Open Source<\/h2>\n<p>Over the past 10 years we largely outgrew most of the Adobe products that related to code (Dreamweaver, Flash, Flex Builder) and have moved to other products. This occurred primarily because Adobe\u00a0kept their corporate focus on the widest possible market and didn&#8217;t keep pace with the more high end web development community (that needed more robust code editing and debugging tools.) Proprietary software has a number of fatal flaws, but the worst of which perhaps\u00a0that\u00a0a\u00a0company that owns closed source software can kill off a product at any time, leaving the community of users with no recourse whatsoever.<\/p>\n<p>The main sticking point keeping us on Adobe software\u00a0has been on the design side of our work. Illustrator, InDesign, and Photoshop are all <strong>required tools for\u00a0sharing files with\u00a0virtually all graphic designers<\/strong> the world over. So we&#8217;ve kept our Creative Cloud subscription going on one Mac in our office expressly for this purpose. But today, I just decided it wasn&#8217;t worth it anymore, that I had had enough of paying\u00a0the monthly fees (which have started to feel like extortion).<\/p>\n<p>So\u00a0I took a minute to reflect on\u00a0all of the issues with Adobe Systems: the\u00a0mismanagement, the focus on profits over customers or product development, the virtual monopoly on the creative industry, the lack of vision and\u00a0leadership. Coupled with a growing distrust of closed source, proprietary software, I decided it was time move on and find another way of\u00a0doing business.<\/p>\n<blockquote><p><strong>Adobe Support:<\/strong> Let me quickly cancel your subscription.\u00a0While I hate you see you go, it would be great to know if you think there was something that I could have offered which would have changed your decision?<br \/>\n<strong>Me:<\/strong> A more reasonable pricing policy. We barely use Adobe products in my company, but occasionally they are very helpful. But since we only use them a couple of time a month the $50 charge is crazy.<br \/>\n<strong>Adobe Support:<\/strong> Thank you for the feedbacks. I will pass this on to the relevant team.<br \/>\n<strong>Adobe Support:<\/strong> I see that you were paying initially $29.99 per month.\u00a0Would you be willing to continue the subscription if I get you the same price again?<br \/>\n<strong>Me:<\/strong> No thank you. Just terminate it. We are going move on and find other software to use instead. I am also going to publish and promote a blog article about how much I dislike\u00a0the pricing model Adobe uses, and the cancellation fee.<br \/>\n<strong>Adobe Support:<\/strong> Okay Damian, I have canceled the subscription and waived off the early termination fee as a goodwill gesture since you have been with us for a long time.<br \/>\n<strong>Me:<\/strong> Thank you. I will include that in my blog post.<\/p><\/blockquote>\n<p>Until today when I contacted Adobe support I wasn&#8217;t even aware there was going to be a <strong>cancellation fee<\/strong> (which would have been an astounding <strong>$175<\/strong> in my case), Because I&#8217;m a good complainer they waived that. One point for complaining; niceness zero.<\/p>\n<h2>The Future<\/h2>\n<p>I\u00a0don&#8217;t rule out that Adobe could turn this trend around. They might be able to recover some of the spirit that both Adobe and Macromedia possessed in their early years. That&#8217;s the main reason for this &#8220;open letter&#8221;. If you are out\u00a0there listening, Adobe, in the immortal words of Ice Cube, you better &#8220;check yo&#8217;self before you wreck yo&#8217;self&#8221;.<\/p>\n<h2>Alternatives to Adobe Creative Cloud<\/h2>\n<p>To wrap up I&#8217;ll leave you with some of\u00a0the tools we have found to be suitable replacements for many Adobe offerings.\u00a0Here are a few of the alternative products we have replaced Adobe software with in our own workflow. These are either free and open source or commercial and reasonably priced.<\/p>\n<p><strong>Please post your additional suggestions in the comments!<\/strong><\/p>\n<table style=\"width: 100%;\">\n<thead>\n<tr>\n<th>Adobe Software<\/th>\n<th>Alternative<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<td>Dreamweaver<\/td>\n<td><a href=\"https:\/\/www.jetbrains.com\/idea\/\">Intellij IDEA<\/a> (combines the features of <a href=\"https:\/\/www.jetbrains.com\/phpstorm\/\">PHPStorm<\/a> \/ <a href=\"https:\/\/www.jetbrains.com\/webstorm\/\">WebStorm<\/a>)<\/td>\n<\/tr>\n<tr>\n<td>Flash<\/td>\n<td><a href=\"http:\/\/www.createjs.com\/TweenJS\">TweenJS<\/a><\/td>\n<\/tr>\n<tr>\n<td>InDesign<\/td>\n<td><a href=\"http:\/\/wiki.scribus.net\/canvas\/Scribus\">Scribus<\/a><\/td>\n<\/tr>\n<tr>\n<td>Photoshop<\/td>\n<td><a href=\"http:\/\/www.gimp.org\/\">GIMP<\/a><\/td>\n<\/tr>\n<tr>\n<td>Illustrator<\/td>\n<td><a href=\"https:\/\/inkscape.org\/\">InkScape<\/a><\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n",
+                "parent": null,
+                "link": "https:\/\/mind.sh\/are\/news\/an-open-letter-to-adobe\/",
+                "date": "2015-03-28T11:37:04",
+                "modified": "2015-03-28T11:54:32",
+                "format": "standard",
+                "slug": "an-open-letter-to-adobe",
+                "guid": "https:\/\/mind.sh\/are\/?p=3804",
+                "excerpt": "<p>Dear Adobe, I cancelled our Adobe Creative\u00a0Cloud plan today. At\u00a0Mindshare Labs we have been\u00a0long term users, fans even, of Adobe and their products for about 20 years. I used to joke in the early 2000&#8217;s that I was only able to buy my first house thanks to Adobe Flash (I was primarily a freelance Flash&nbsp;<a class=\"mapi excerpt-more\" title=\"An Open Letter to Adobe\" href=\"https:\/\/mind.sh\/are\/news\/an-open-letter-to-adobe\/\">Read more &rsaquo;<\/a><\/p>\n",
+                "menu_order": 2,
+                "comment_status": "open",
+                "ping_status": "open",
+                "sticky": false,
+                "date_tz": "America\/Denver",
+                "date_gmt": "2015-03-28T17:37:04",
+                "modified_tz": "America\/Denver",
+                "modified_gmt": "2015-03-28T17:54:32",
+                "meta": {
+                    "links": {
+                        "self": "https:\/\/mind.sh\/are\/wp-json\/posts\/3804",
+                        "author": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                        "collection": "https:\/\/mind.sh\/are\/wp-json\/posts",
+                        "replies": "https:\/\/mind.sh\/are\/wp-json\/posts\/3804\/comments",
+                        "version-history": "https:\/\/mind.sh\/are\/wp-json\/posts\/3804\/revisions"
+                    }
+                },
+                "featured_image": {
+                    "ID": 3961,
+                    "title": "creative-cloud-money-pit1",
+                    "status": "inherit",
+                    "type": "attachment",
+                    "author": {
+                        "ID": 3,
+                        "username": "mindshare",
+                        "name": "Damian Taggart",
+                        "first_name": "Damian",
+                        "last_name": "Taggart",
+                        "nickname": "Damian",
+                        "slug": "mindshare",
+                        "URL": "https:\/\/mind.sh\/are\/company\/team\/",
+                        "avatar": "https:\/\/secure.gravatar.com\/avatar\/4b80aa96c59bcbe5b6af4431980a2435?s=96",
+                        "description": "Over the past decade Damian has grown Mindshare Labs from a very small (spare bedroom) operation into one of the more established and sought after web design and app development firms in the Southwest. Mindshare Labs won Small Business of the Year in 2014 from the Santa Fe Chamber of Commerce. Before founding Mindshare Labs, Damian worked as a web and multimedia developer for St. John\u2019s College and Central New Mexico Community College, respectively. Damian has also worked doing freelance web design and internet\/technology consulting. He is an avid open source technology enthusiast.\r\n\r\nDamian serves the City of Santa Fe on both the Economic Development Review Committee and the Business and Quality of Life Committee. Additionally, Damian is a co-owner of the experimental arts collective <a href=\"https:\/\/meowwolf.com\/\">Meow Wolf<\/a> which has partnered with George RR Martin to open a 20,000 square foot art experience in Santa Fe.\r\n\r\nDamian graduated cum laude with an interdisciplinary degree in Media Arts and English from the University of New Mexico in 2003. Damian lives in Santa Fe with his wife Lara and two sons, Jack and Henry.",
+                        "registered": "2011-07-29T22:06:45+00:00",
+                        "meta": {
+                            "links": {
+                                "self": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                                "archives": "https:\/\/mind.sh\/are\/wp-json\/users\/3\/posts"
+                            }
+                        }
+                    },
+                    "content": "<p class=\"attachment\"><a href='https:\/\/mind.sh\/are\/wp-content\/uploads\/creative-cloud-money-pit1.jpeg' rel='shadowbox[sbpost-3961];player=img;'><img width=\"300\" height=\"200\" src=\"https:\/\/mind.sh\/are\/wp-content\/uploads\/creative-cloud-money-pit1-300x200.jpeg\" class=\"attachment-medium size-medium\" alt=\"Image credit: TapScape\" srcset=\"https:\/&#x2f;&#x6d;i&#110;&#x64;.s&#x68;&#x2f;a&#114;&#x65;\/w&#x70;&#x2d;c&#111;&#x6e;te&#x6e;&#x74;\/&#117;&#x70;l&#111;&#x61;&#x64;s&#x2f;&#x63;r&#101;&#x61;ti&#x76;&#x65;-&#99;&#x6c;ou&#x64;&#x2d;m&#111;&#x6e;ey&#x2d;&#x70;i&#116;&#x31;-&#49;&#x35;&#x30;x&#x31;&#x30;0&#64;&#x32;x.&#x6a;&#x70;e&#103; 300w, https:\/\/mind.sh\/are\/wp-content\/uploads\/creative-cloud-money-pit1-150x100.jpeg 150w, https:&#x2f;&#x2f;&#x6d;&#x69;&#x6e;&#x64;&#x2e;&#x73;&#x68;&#x2f;&#x61;&#x72;&#x65;&#x2f;&#x77;&#x70;&#x2d;&#x63;&#x6f;&#x6e;&#x74;&#x65;&#110;&#116;&#47;&#117;&#112;&#108;&#111;&#97;ds\/creative-cloud-m&#x6f;&#x6e;&#x65;&#x79;&#x2d;&#x70;&#x69;&#x74;&#x31;&#x2d;&#x33;&#x30;&#x30;&#x78;&#x32;&#x30;&#x30;&#x40;&#x32;&#x78;&#x2e;&#x6a;&#x70;&#101;&#103; 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/><\/a><\/p>\n",
+                    "parent": 3804,
+                    "link": "https:\/\/mind.sh\/are\/wp-content\/uploads\/creative-cloud-money-pit1.jpeg",
+                    "date": "2015-05-28T11:05:21",
+                    "modified": "2015-05-28T11:06:02",
+                    "format": "standard",
+                    "slug": "creative-cloud-money-pit1",
+                    "guid": "https:\/\/mind.sh\/are\/wp-content\/uploads\/creative-cloud-money-pit1.jpeg",
+                    "excerpt": "<p>Image credit: TapScape<\/p>\n",
+                    "menu_order": 0,
+                    "comment_status": "open",
+                    "ping_status": "open",
+                    "sticky": false,
+                    "date_tz": "America\/Denver",
+                    "date_gmt": "2015-05-28T17:05:21",
+                    "modified_tz": "America\/Denver",
+                    "modified_gmt": "2015-05-28T17:06:02",
+                    "meta": {
+                        "links": {
+                            "self": "https:\/\/mind.sh\/are\/wp-json\/media\/3961",
+                            "author": "https:\/\/mind.sh\/are\/wp-json\/users\/3",
+                            "collection": "https:\/\/mind.sh\/are\/wp-json\/media",
+                            "replies": "https:\/\/mind.sh\/are\/wp-json\/media\/3961\/comments",
+                            "version-history": "https:\/\/mind.sh\/are\/wp-json\/media\/3961\/revisions",
+                            "up": "https:\/\/mind.sh\/are\/wp-json\/media\/3804"
+                        }
+                    },
+                    "terms": [ ],
+                    "source": "https:\/\/mind.sh\/are\/wp-content\/uploads\/creative-cloud-money-pit1.jpeg",
+                    "is_image": true,
+                    "attachment_meta": {
+                        "width": 600,
+                        "height": 400,
+                        "file": "creative-cloud-money-pit1.jpeg",
+                        "sizes": {
+                            "thumbnail": {
+                                "file": "creative-cloud-money-pit1-150x100.jpeg",
+                                "width": 150,
+                                "height": 100,
+                                "mime-type": "image\/jpeg",
+                                "url": "https:\/\/mind.sh\/are\/wp-content\/uploads\/creative-cloud-money-pit1-150x100.jpeg"
+                            },
+                            "medium": {
+                                "file": "creative-cloud-money-pit1-300x200.jpeg",
+                                "width": 300,
+                                "height": 200,
+                                "mime-type": "image\/jpeg",
+                                "url": "https:\/\/mind.sh\/are\/wp-content\/uploads\/creative-cloud-money-pit1-300x200.jpeg"
+                            },
+                            "post-thumbnail": {
+                                "file": "creative-cloud-money-pit1-125x125.jpeg",
+                                "width": 125,
+                                "height": 125,
+                                "mime-type": "image\/jpeg",
+                                "url": "https:\/\/mind.sh\/are\/wp-content\/uploads\/creative-cloud-money-pit1-125x125.jpeg"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": 0,
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": 0,
+                            "copyright": "",
+                            "focal_length": 0,
+                            "iso": 0,
+                            "shutter_speed": 0,
+                            "title": "",
+                            "orientation": 0
+                        }
+                    }
+                },
+                "terms": {
+                    "post_tag": [
+                        {
+                            "ID": 31,
+                            "name": "adobe",
+                            "slug": "adobe",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 2,
+                            "link": "https:\/\/mind.sh\/are\/tag\/adobe\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/31"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 46,
+                            "name": "business",
+                            "slug": "business",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 5,
+                            "link": "https:\/\/mind.sh\/are\/tag\/business\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/46"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 272,
+                            "name": "cost",
+                            "slug": "cost",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/cost\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/271"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 274,
+                            "name": "dreamweaver",
+                            "slug": "dreamweaver",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/dreamweaver\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/273"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 79,
+                            "name": "flash",
+                            "slug": "flash",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 3,
+                            "link": "https:\/\/mind.sh\/are\/tag\/flash\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/79"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 271,
+                            "name": "freedom",
+                            "slug": "freedom",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/freedom\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/270"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 270,
+                            "name": "greed",
+                            "slug": "greed",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/greed\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/269"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 273,
+                            "name": "licensing",
+                            "slug": "licensing",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/licensing\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/272"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 276,
+                            "name": "macromedia",
+                            "slug": "macromedia",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/macromedia\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/275"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 277,
+                            "name": "monopoly",
+                            "slug": "monopoly",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/monopoly\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/276"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 275,
+                            "name": "photoshop",
+                            "slug": "photoshop",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/photoshop\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/274"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 278,
+                            "name": "price gouging",
+                            "slug": "price-gouging",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 1,
+                            "link": "https:\/\/mind.sh\/are\/tag\/price-gouging\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/277"
+                                }
+                            }
+                        },
+                        {
+                            "ID": 164,
+                            "name": "software",
+                            "slug": "software",
+                            "description": "",
+                            "taxonomy": "post_tag",
+                            "parent": null,
+                            "count": 4,
+                            "link": "https:\/\/mind.sh\/are\/tag\/software\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/post_tag\/terms\/163"
+                                }
+                            }
+                        }
+                    ],
+                    "category": [
+                        {
+                            "ID": 6,
+                            "name": "News",
+                            "slug": "news",
+                            "description": "",
+                            "taxonomy": "category",
+                            "parent": null,
+                            "count": 77,
+                            "link": "https:\/\/mind.sh\/are\/category\/news\/",
+                            "meta": {
+                                "links": {
+                                    "collection": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms",
+                                    "self": "https:\/\/mind.sh\/are\/wp-json\/taxonomies\/category\/terms\/280"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }}
